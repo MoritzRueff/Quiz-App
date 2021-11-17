@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+.nav-bar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    background: var(--primary);
+    padding: 10px 0;
+    border: 2px solid black;;
+  }

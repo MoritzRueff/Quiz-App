@@ -1,0 +1,6 @@
+header {
+    text-align: center;
+    position: sticky;
+    background:var(--secondary);
+    border: 2px solid black;;
+}
