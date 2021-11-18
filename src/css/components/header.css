@@ -4,4 +4,10 @@ header {
     background:var(--secondary);
     border: 2px solid black;;
     border-radius: 10px;
+    
+}
+h1 {
+    color: #ebebeb;
+    padding: 15px;
+    text-shadow: 2px 2px 4px hotpink;
 }
